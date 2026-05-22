@@ -6,6 +6,9 @@ This repo will serve as a starting repo for express routes creation
 
 After cloning  the repo: 
 
-** npm install 
-** npm start
+issue the following commands 
+
+npm install 
+
+npm start
 
